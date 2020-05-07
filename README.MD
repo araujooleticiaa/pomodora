@@ -7,8 +7,6 @@
 
 ## ⚙️ Tecnologias utilizadas:
 
-- EsLint;
-- Prettier;
 - Yarn;
 - React Native;
 - Styled Componemts;

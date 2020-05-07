@@ -2,7 +2,7 @@
 
 <hr/>
 
-![Farmers Market Finder Demo](apresentacao.gif)
+![Farmers Market Finder Demo](gif.gif)
 
 
 ## ⚙️ Tecnologias utilizadas:
